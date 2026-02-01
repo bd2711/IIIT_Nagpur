@@ -1,0 +1,10 @@
+# The Green Energy Revolution
+
+The Green Energy Revolution is a global transition from fossil fuels to renewable energy sources like solar, wind, and geothermal power. 
+One of the primary goals of this transition is to reduce carbon emissions and combat climate change. 
+
+Solar energy is captured using photovoltaic panels, which convert sunlight directly into electricity. 
+Wind energy is harnessed by large turbines located in areas with high wind speeds, such as coastal regions or open plains.
+
+Despite its benefits, the transition faces challenges including energy storage limitations and the high initial cost of infrastructure.
+However, governments around the world are providing subsidies to encourage the adoption of green technologies.
