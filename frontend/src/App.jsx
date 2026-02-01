@@ -101,7 +101,7 @@ function App() {
       <aside className="sidebar">
         <div className="brand">
           <span style={{ fontSize: '2rem' }}>📑</span>
-          MindFlow AI
+          Context Flow
         </div>
 
         <div className="upload-section">
